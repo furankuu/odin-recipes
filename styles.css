@@ -1,0 +1,81 @@
+.header {
+    background-color: grey;
+    font-weight: bold;
+    color: black;
+    margin: auto;
+    display: inline-block;
+    margin-left: 180px;
+    font-size: 50px;
+    border-style: dashed;
+    border: 5px;
+    border-radius: 25px;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+
+.recipe {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: whitesmoke;
+    margin: 16px;
+    padding: 4px 24px;
+    border: 16px;
+    display: inline-block;
+    border: 5px;
+    border-style: groove;
+    border-radius: 25px;
+
+    
+
+    
+    
+}
+
+/* chipotle page */
+
+.header {
+    font-weight: bolder;
+    background-color: whitesmoke;
+    color: rgb(126, 123, 123);
+    font-size: 50px;
+    display: block;
+    margin: 40px;
+    text-align: center;
+    padding: 8px 24px;
+    
+}
+
+.titles {
+    background-color: rgb(209, 209, 209);
+    color: rgb(70, 70, 70);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+}
+
+.lists {
+    background-color: whitesmoke;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+#optional {
+    background-color: rgb(144, 171, 172);
+    text-align: center;
+}
+
+.small-header {
+    background-color: whitesmoke;
+    display: block;
+    padding-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 8px 24px;
+}
+
+.images {
+    margin-left: 200px;
+}
